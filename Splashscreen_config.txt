@@ -1,0 +1,3 @@
+30   ; mouse move frequency in seconds, 20 or 30 is usual
+10   ; time after which the splash screen is automatically shown, in minutes, 5, 10 or 15 is usual, a value of 0 or less turns off automatic
+0     ; display mode, =0 is  show a splash screen on primary and black image on the rest of the screens, =1 show splash screen on primary, turn other screens off,  =2 turn all screens off
