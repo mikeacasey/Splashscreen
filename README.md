@@ -8,6 +8,6 @@ The use-case is to avoid screen lock and having to re-insert password.
 Can also maintain the illusion of being continuously online in a WFH scenario.
 
 ## Installation
-Install Autohotkey (https://www.autohotkey.com/)
-Save the ahk-file, config and splash.jpg in any arbitrary directory
-Create an exe from the script and include in startup.
+- Install Autohotkey (https://www.autohotkey.com/)
+- Save the ahk-file, config and splash.jpg in any arbitrary directory
+- Create an exe from the script and include in startup.
